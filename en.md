@@ -1,5 +1,7 @@
 # ShadowFlip: Xiangqi — Privacy Policy
 
+[中文版 →](./)
+
 **Last updated: June 16, 2026**
 
 Thank you for using ShadowFlip: Xiangqi ("the App", "we", "our app"). This Privacy Policy describes how we collect, use, share, and protect your information.
