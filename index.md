@@ -63,8 +63,8 @@
 如对本隐私政策有任何疑问，请通过以下方式联系：
 
 - 邮箱：ShadowFlipService@163.com
-- 开发者：王明吉（Mingji Wang）
+- 开发者：Mingji Wang
 
 ---
 
-© 2025-2026 王明吉。保留所有权利。
+© 2025-2026 Mingji Wang。保留所有权利。
